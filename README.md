@@ -44,10 +44,9 @@ This project provides an interactive dashboard to visualize and analyze sales da
 
 ## 📂 Files Included
 
-- `sales_dashboard.pbix` – Power BI dashboard file *(if applicable)*
-- `sales_data.csv` – Raw dataset used
+- `sales_dashboard.pbix` – Power BI dashboard file
+- `Superstore.xlsx` – Raw dataset used
 - `README.md` – Project documentation
-- `images/` – Screenshots and visuals used in the dashboard
 
 ---
 
